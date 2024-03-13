@@ -6,6 +6,7 @@ export default function AdminHome() {
       <WrapItem display={"flex"} alignItems={"center"} justifyContent={"right"}>
         <Button colorScheme="telegram">Add New Loans</Button>
       </WrapItem>
+      {/* ?mekke */}
     </>
   );
 }
